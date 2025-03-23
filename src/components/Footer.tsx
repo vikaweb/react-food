@@ -7,7 +7,7 @@ function Footer() {
           <a
             className="grey-text text-lighten-4 right"
             target="_blank"
-            href="https://github.com/vikaweb/react-shop-example">
+            href="https://github.com/vikaweb/react-food">
             Repo
           </a>
         </div>
